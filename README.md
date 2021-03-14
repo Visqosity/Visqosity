@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Visqosity!
 - 👀 I’m interested in NodeJS/JavaScript!
 - 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on [Uploadr](https://github.com/NeevJewalkar/Uploadr)!
+- 💞️ I’m collaborating on [Uploadr](https://github.com/NeevJewalkar/Uploadr)!
 - 📫 You can contact me [here](https://scratch.mit.edu/users/Visqosity) on Scratch!
